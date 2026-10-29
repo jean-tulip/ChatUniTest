@@ -1,0 +1,6 @@
+{
+  "schema": "rda.bridge.v0",
+  "request_id": "ping-20261029-001",
+  "operation": "ping",
+  "challenge": "challenge-20261029-001"
+}
